@@ -4,6 +4,7 @@ import java.util.*;
 public class BaseDao {
       //����������t����ݿ�
 	public Connection getcon() throws ClassNotFoundException, SQLException{
+		//阿斯顿飞
 //		Class.forName("com.mysql.jdbc.Driver");
 //		Connection con=DriverManager.getConnection("jdbc:mysql://172.28.250.127:3306/ecmis?useUnicode=true&amp;characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull","queryer","queryer.12");
 //		Connection con=DriverManager.getConnection("jdbc:mysql://172.28.250.133:3306/ecmis?useUnicode=true&amp;characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull","root","123456");
